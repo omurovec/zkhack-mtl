@@ -1,1 +1,3 @@
 **/target/*
+zkVerify/node_modules/*
+zkVerify/src/risc0
